@@ -2,7 +2,7 @@
 
 A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, including approximate timelines, projects, and tools.
 
----
+
 
 ## **Tier 1: Basics of Web Development (2–3 weeks)**
 
@@ -23,7 +23,7 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 **Project Practice:**  
 - Simple static webpage  
 
----
+
 
 ## **Tier 2: Frontend – React (3–4 weeks)**
 
@@ -44,7 +44,7 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - Weather App using public APIs  
 - Blog Frontend  
 
----
+
 
 ## **Tier 3: Next.js (2–3 weeks)**
 
@@ -62,7 +62,7 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - Blog with SSR  
 - Portfolio website  
 
----
+
 
 ## **Tier 4: Backend – Node.js & Express (3 weeks)**
 
@@ -78,7 +78,7 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - API for tasks/todos  
 - User authentication (signup/login)  
 
----
+
 
 ## **Tier 5: Database – MongoDB (2 weeks)**
 
@@ -93,7 +93,7 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 **3. Backend + DB Project (3–4 days)**  
 - Full CRUD app with Express + MongoDB  
 
----
+
 
 ## **Tier 6: Fullstack Integration (2–3 weeks)**
 
@@ -110,7 +110,7 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - E-commerce mini app  
 - Task manager with login/signup  
 
----
+
 
 ## **Tier 7: Deployment & Tools (1 week)**
 
@@ -124,12 +124,12 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - Chrome DevTools  
 - ESLint & Prettier  
 
----
+
 
 ## **Approx Total Timeline:** 15–18 weeks
 > Daily 2–3 hours practice with small projects after each tier.
 
----
+
 
 ## **Tips for Beginners**
 - Start small and build mini-projects.  
@@ -137,7 +137,7 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - Practice connecting frontend & backend early.  
 - Keep projects on GitHub to build your portfolio.  
 
----
+
 
 ## **Recommended Projects to Showcase**
 1. Portfolio Website  
@@ -146,6 +146,5 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 4. E-commerce Mini App  
 5. Weather or To-Do Apps (for frontend practice)  
 
----
 
 **Happy Learning! 🚀**
