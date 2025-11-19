@@ -45,7 +45,6 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - Blog Frontend  
 
 
-
 ## **Tier 3: Next.js (2–3 weeks)**
 
 **1. Next.js Basics (1 week)**  
