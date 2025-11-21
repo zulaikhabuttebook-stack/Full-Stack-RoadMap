@@ -11,6 +11,9 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - CSS basics, Flexbox, Grid  
 - Responsive design, media queries  
 
+done
+
+
 **2. JavaScript Fundamentals (1–1.5 weeks)**  
 - Variables, loops, conditionals, functions  
 - Arrays, objects, DOM manipulation  
