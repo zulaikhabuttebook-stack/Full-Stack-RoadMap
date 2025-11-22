@@ -15,7 +15,7 @@ done
 
 
 **2. JavaScript Fundamentals (1–1.5 weeks)**  
-- Variables, loops, conditionals, functions  
+- Variables, loops, conditionals, functions -------  
 - Arrays, objects, DOM manipulation  
 - Event handling  
 
