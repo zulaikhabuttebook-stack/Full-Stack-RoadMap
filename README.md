@@ -16,7 +16,7 @@ done
 
 **2. JavaScript Fundamentals (1–1.5 weeks)**  
 - Variables, loops, conditionals, functions -------  
-- Arrays, objects, DOM manipulation  
+- Arrays, objects, DOM manipulation  ----
 - Event handling  
 
 **3. Version Control (2–3 days)**  
