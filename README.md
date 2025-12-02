@@ -16,7 +16,7 @@ A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, i
 - Variables, loops, conditionals, functions 
 - Arrays, objects, DOM manipulation  
 - Event handling   
-done
+done.
 
 **3. Version Control (2–3 days)**  
 - Git basics: init, commit, push, pull  
