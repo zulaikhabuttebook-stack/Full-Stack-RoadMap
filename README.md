@@ -139,7 +139,6 @@
 - Keep projects on GitHub to build your portfolio.  
 
 
-
 ## **Recommended Projects to Showcase**
 1. Portfolio Website  
 2. Blog Platform with Authentication  
