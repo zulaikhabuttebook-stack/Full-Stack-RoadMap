@@ -1,6 +1,6 @@
 # MERN + Next.js Beginner Roadmap
 
-A step-by-step roadmap for beginners to learn **MERN Stack** with **Next.js**, including approximate timelines, projects, and tools.
+
 
 
 
