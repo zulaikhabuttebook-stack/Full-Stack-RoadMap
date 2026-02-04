@@ -59,8 +59,6 @@
 - Blog with SSR  
 - Portfolio website  
 
-
-
 ## **Tier 4: Backend – Node.js & Express (3 weeks)**
 
 **1. Node.js Basics (1 week)**  
