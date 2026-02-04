@@ -1,9 +1,5 @@
 # MERN + Next.js Beginner Roadmap
 
-
-
-
-
 ## **Tier 1: Basics of Web Development (2–3 weeks)**
 
 **1. HTML & CSS (1 week)**  
@@ -110,7 +106,6 @@
 - Fullstack Blog (CRUD + Auth)  
 - E-commerce mini app  
 - Task manager with login/signup  
-
 
 
 ## **Tier 7: Deployment & Tools (1 week)**
